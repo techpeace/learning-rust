@@ -2,6 +2,7 @@
     "gitlens.currentLine.enabled": false,
     "rust-analyzer.checkOnSave.command": "clippy",
     "[rust]": {
-        "editor.defaultFormatter": "trunk.io"
-    }
+        "editor.defaultFormatter": "matklad.rust-analyzer", // Makes the magic
+        "editor.formatOnSave": true // Optional
+    },
 }

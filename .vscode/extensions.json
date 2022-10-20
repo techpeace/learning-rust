@@ -2,6 +2,8 @@
     "recommendations": [
         "rust-lang.rust-analyzer",
         "jscearcy.rust-doc-viewer",
-        "vadimcn.vscode-lldb"
+        "vadimcn.vscode-lldb",
+        "matklad.rust-analyzer",
+        "statiolake.vscode-rustfmt"
     ]
 }
