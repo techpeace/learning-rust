@@ -1,0 +1,7 @@
+{
+    "gitlens.currentLine.enabled": false,
+    "rust-analyzer.checkOnSave.command": "clippy",
+    "[rust]": {
+        "editor.defaultFormatter": "trunk.io"
+    }
+}
